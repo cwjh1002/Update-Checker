@@ -1,7 +1,7 @@
-Version-Checker
+Update-Checker
 ===============
 
-For Version Checker of EfeGear.
+For Update Checker of EfeGear.
 
 %EfeGear%1.7%EfeGear%
 %Fishkg%6.1%Fishkg%
